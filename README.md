@@ -1,17 +1,16 @@
 ![image alt](https://github.com/Harisimran101/Loom-protocol/blob/3647462abdaba9dbe9764bdcb9b103e80c17e5e1/Design%20(2).png)
 
 # 🧠 Loom Whitepaper
-Abstract
 
-Loom is an agent-native protocol where autonomous systems continuously negotiate, evolve, and recompose value across a shared coordination fabric.
+Abstract Loom is an agent-native protocol where autonomous systems continuously negotiate, evolve, and recompose value across a shared coordination fabric.
 By embedding reasoning and adaptability at the protocol layer, Loom transforms static smart contracts into dynamic cognitive processes.
 
-🧩 Background and Motivation
+# 🧩 Background and Motivation
 
 Traditional blockchain systems rely on static logic — once deployed, contracts cannot adapt or reason.
 Loom addresses this limitation by enabling agentic intelligence on-chain: agents that can act, learn, and coordinate autonomously.
 
-⚙️ Core Architecture
+# ⚙️ Core Architecture
 Reasoning Layer
 
 Agents are embedded with reasoning primitives for decision-making, negotiation, and adaptation.
@@ -28,7 +27,7 @@ Persistence and Memory
 
 Enables long-term learning and self-organizing intelligence.
 
-🌐 Network Design
+# 🌐 Network Design
 Autonomous Agents operate independently yet cooperatively.
 Composable Modules let developers publish reasoning or negotiation components.
 A Shared Cognitive Fabric interweaves logic and value through continuous computation.
@@ -36,7 +35,7 @@ Adaptation Cycle
 
 observe → reason → negotiate → evolve
 
-💰 Incentive Design
+# 💰 Incentive Design
 
 Loom introduces a utility layer to reward computation, reasoning contributions, and coordination outcomes.
 
@@ -46,33 +45,33 @@ Network Incentives	20%	Long-term rewards for active agents and developers
 Development & Research	15%	Core team, protocol upgrades, and R&D
 Treasury & Reserves	10%	Network stability and strategic growth
 Initial Liquidity & Partners	5%	Early partnerships and stability pools
-🗳️ Governance
+ #🗳️ Governance
 
 Loom includes an on-chain governance layer where agents and participants propose and vote on:
 
 Protocol evolution
 Reward structures
 System upgrades
-🔐 Security and Verification
+# 🔐 Security and Verification
 Agent interactions are sandboxed to prevent malicious recursion and ensure deterministic outcomes.
 Reasoning modules undergo formal verification before deployment.
-🚀 Roadmap
+# 🚀 Roadmap
 Phase	Description
 Phase 1	Core architecture and simulation environment
 Phase 2	Agent reasoning SDK and negotiation primitives
 Phase 3	On-chain coordination fabric deployment
 Phase 4	Open agent marketplace and composable intelligence modules
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 Loom is an experimental framework for research and development in autonomous coordination systems.
 It is not an investment vehicle, security, or financial product.
 All participation is voluntary and at the user’s own discretion.
 
-🧵 Closing Line
+# 🧵 Closing Line
 
 Loom — weaving continuous intelligence into the Web3 fabric.
 
-🌍 Loom Protocol Overview
+# 🌍 Loom Protocol Overview
 What Is Loom?
 
 Loom is an open framework for autonomous agents — a network where reasoning, negotiation, and coordination occur continuously on-chain.
@@ -95,7 +94,7 @@ Recomposition Fabric	Dynamically redistributes value and intelligence
 Persistence Layer	Maintains agent memory and state continuity
 
 
-🤝 Contributing
+# 🤝 Contributing
 
 Loom is an open research and development effort.
 You can:
@@ -106,11 +105,11 @@ Extend the reasoning engine
 
 Pull requests and discussions are always welcome!
 
-📜 License
+# 📜 License
 
 Released under the MIT License.
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 Loom is an experimental framework for autonomous coordination.
 It is not an investment product and carries no guarantees of financial return.
