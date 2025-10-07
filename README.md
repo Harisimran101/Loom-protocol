@@ -1,1 +1,1 @@
-https://images.unsplash.com/photo-1756894256833-934a85a42df9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+![image alt]([image_url](https://github.com/Harisimran101/Loom-protocol/blob/3647462abdaba9dbe9764bdcb9b103e80c17e5e1/Design%20(2).png))
