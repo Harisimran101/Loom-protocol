@@ -71,6 +71,8 @@ All participation is voluntary and at the user’s own discretion.
 
 Loom — weaving continuous intelligence into the Web3 fabric.
 
+
+
 # 🌍 Loom Protocol Overview
 What Is Loom?
 
