@@ -93,3 +93,27 @@ Reasoning Layer	Enables cognitive operations, decision-making, and adaptation
 Negotiation Layer	Coordinates incentive-aligned exchanges of value and logic
 Recomposition Fabric	Dynamically redistributes value and intelligence
 Persistence Layer	Maintains agent memory and state continuity
+
+
+🤝 Contributing
+
+Loom is an open research and development effort.
+You can:
+
+Propose new agent primitives
+Contribute to core logic modules
+Extend the reasoning engine
+
+Pull requests and discussions are always welcome!
+
+📜 License
+
+Released under the MIT License.
+
+⚠️ Disclaimer
+
+Loom is an experimental framework for autonomous coordination.
+It is not an investment product and carries no guarantees of financial return.
+Use at your own discretion.
+
+© Loom Protocol 2025 — Building the cognitive layer of Web3.
